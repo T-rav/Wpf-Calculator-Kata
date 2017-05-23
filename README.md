@@ -1,4 +1,4 @@
 Code For Kata
 =========
 
-Code associated with TDDBuddy.com Calculaator Refactor kata.
+Code associated with TDDBuddy.com Calculator Refactor kata.
